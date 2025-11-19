@@ -25,10 +25,10 @@ Tipografia Externa: Google Fonts (fontes Inter e Raleway), carregadas via CDN.
 O projeto segue uma estrutura de arquivos simples:
 
 /meu-portfolio-html-
-├── index.html       # Arquivo principal do portfólio (com todo o conteúdo)
-├── styles.css       # Todas as regras de estilo e design
-├── (Arquivos de Imagem)
-└── README.md        # Este arquivo
+--- index.html       =Arquivo principal do portfólio (com todo o conteúdo)
+--- styles.css       = Todas as regras de estilo e design
+--- (Arquivos de Imagem)
+---README.md        = Este arquivo
 🚀 Como Visualizar
 O projeto é estático (não precisa de servidor). Siga os passos:
 
@@ -49,5 +49,3 @@ Entre em contato com Lucas Assis através dos seguintes canais:
 Repositório GitHub: https://github.com/lucas4alecrim-glitch/meu-portfolio-html-
 
 LinkedIn: https://www.linkedin.com/in/lucas-assis-a7014039a
-
-Demo Online (Sugestão): O link do seu projeto hospedado no GitHub Pages deve ser parecido com este: https://lucas4alecrim-glitch.github.io/meu-portfolio-html-/
